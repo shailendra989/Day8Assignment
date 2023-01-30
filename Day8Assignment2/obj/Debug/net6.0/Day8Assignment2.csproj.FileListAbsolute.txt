@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\bin\Debug\net6.0\Day8Assignment2.exe
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\bin\Debug\net6.0\Day8Assignment2.deps.json
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\bin\Debug\net6.0\Day8Assignment2.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\bin\Debug\net6.0\Day8Assignment2.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\bin\Debug\net6.0\Day8Assignment2.pdb
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\Day8Assignment2.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\Day8Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\Day8Assignment2.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\Day8Assignment2.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\Day8Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\Day8Assignment2.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\refint\Day8Assignment2.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\Day8Assignment2.pdb
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\Day8Assignment2.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day8Assignment2\obj\Debug\net6.0\ref\Day8Assignment2.dll
